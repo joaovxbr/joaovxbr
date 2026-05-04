@@ -50,7 +50,8 @@ Entre na comunidade oficial e acompanhe tudo de perto:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=joaovxbr&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovxbr&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovxbr&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
