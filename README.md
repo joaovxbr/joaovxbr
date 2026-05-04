@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="970" height="650" alt="VX Community Banner" src="https://github.com/user-attachments/assets/79b9e574-88f2-4278-afb8-bab1a72626a5" />
+  <img width="300" height="300" alt="VX Community Banner" src="https://github.com/user-attachments/assets/79b9e574-88f2-4278-afb8-bab1a72626a5" />
 
 </p>
 
