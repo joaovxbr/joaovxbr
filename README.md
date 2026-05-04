@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaovxbr/joaovxbr/main/banner.png" alt="VX Community Banner"/>
+  <img width="970" height="650" alt="VX Community Banner" src="https://github.com/user-attachments/assets/79b9e574-88f2-4278-afb8-bab1a72626a5" />
+
 </p>
 
 <h1 align="center">⚡ VX COMMUNITY | JOAOVX</h1>
